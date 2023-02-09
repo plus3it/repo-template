@@ -17,3 +17,6 @@ tardigrade-ci/
 __pycache__
 .python-version
 .pytest_cache
+
+#macOS local dir meta file
+.DS_Store
