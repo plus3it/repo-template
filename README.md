@@ -33,6 +33,7 @@ To use this template:
                 * lint/actionlint
                 * lint/tardigradelint
                 * release / test / mockstacktest                
+            * Turn on Do not allow bypassing the above settings
 5. Edit the following files to customize them for the new repository:
     * `LICENSE`
         * Near the end of the file, edit the date and change the repository name
