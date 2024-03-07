@@ -23,7 +23,7 @@ To use this template:
             * `tardigrade-admins` (as admin)
             * `terraform` (as maintainer)
     * `Branches`
-        * `Create Branch Protection rule`
+        * `Create Branch Protection rule` for `main`
             * Turn on Require pull request before merging
             * Turn on Require approvals
             * Turn on Dismiss stale pull requests...
