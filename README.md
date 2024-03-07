@@ -9,7 +9,7 @@ To use this template:
 4. Configure the following settings on your new repo.
     * `GENERAL`
         * `Features`
-            * Turn off Wikis
+            * Turn off Wikis, Sponsorships, Discussions, and Projects
         * `Pull Requests`
             * Turn off Squash Merging
             * Turn off Rebase Merging
