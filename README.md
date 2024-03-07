@@ -32,7 +32,7 @@ To use this template:
                 * WIP
                 * lint/actionlint
                 * lint/tardigradelint
-                * release / test / mockstacktest                
+                * test / mockstacktest                
             * Turn on Do not allow bypassing the above settings
 5. Edit the following files to customize them for the new repository:
     * `LICENSE`
