@@ -20,8 +20,9 @@ To use this template:
     * `COLLABORATORS and TEAMS`
         * `Manage Access`
             * Add relevant team roles, for example
-            * `tardigrade-admins` (as admin)
-            * `terraform` (as maintainer)
+            * `tardigrade-admins` (Admin)
+            * `terraform` (Write)
+            * `releasebot` (Write)
     * `Branches`
         * `Create Branch Protection rule` for `main`
             * Turn on Require pull request before merging
