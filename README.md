@@ -1,5 +1,5 @@
 # repo-template
-Generic repo template for Plus3IT repositories
+Generic repo template for Plus3 IT repositories
 
 To use this template:
 
@@ -46,6 +46,10 @@ To use this template:
           start with
     * `README.md`
         * Replace contents for the new repo
+    * `AGENTS.md`
+        * Fill in the Repository-specific section (Purpose, Layout, CI/CD, Testing)
+        * Remove or keep pointer files (CLAUDE.md, .gemini/settings.json) based on
+          which AI tools your team uses
     * `.github/`
         * Inspect dependabot and workflow files in case changes are needed for
           the new repo
