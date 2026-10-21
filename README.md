@@ -48,6 +48,9 @@ To use this template:
         * Replace contents for the new repo
     * `AGENTS.md`
         * Fill in the Repository-specific section (Purpose, Layout, CI/CD, Testing)
+    * `Makefile`
+        * If the repository fits one of the profiles (terraform-module, salt-formula, terragrunt-deployment),
+          set AGENTS_PROFILE := <profile> before the include line
     * `.github/`
         * Inspect dependabot and workflow files in case changes are needed for
           the new repo
