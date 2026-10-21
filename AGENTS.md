@@ -77,8 +77,8 @@ All repositories follow `.editorconfig` rules. Validate formatting with `make ec
 <!--
   INSTRUCTIONS FOR REPOSITORY MAINTAINERS:
   Fill in the sections below for your specific repository. Remove this comment and any
-  placeholder sections that don't apply. Keep the pointer files (CLAUDE.md, .gemini/settings.json)
-  if your team uses those AI tools, or remove them if not.
+  placeholder sections that don't apply. Don't add tool-specific instruction files such as
+  CLAUDE.md; agent tools read AGENTS.md directly.
 -->
 
 ### Purpose

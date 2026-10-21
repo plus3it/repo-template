@@ -48,8 +48,6 @@ To use this template:
         * Replace contents for the new repo
     * `AGENTS.md`
         * Fill in the Repository-specific section (Purpose, Layout, CI/CD, Testing)
-        * Remove or keep pointer files (CLAUDE.md, .gemini/settings.json) based on
-          which AI tools your team uses
     * `.github/`
         * Inspect dependabot and workflow files in case changes are needed for
           the new repo
