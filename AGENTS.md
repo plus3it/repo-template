@@ -20,7 +20,7 @@ These rules always apply, even without the shared instructions:
   placeholder sections that don't apply. Don't add tool-specific instruction files such as
   CLAUDE.md; agent tools read AGENTS.md directly.
   
-  If this repository fits one of the profiles (terraform-module, salt-formula, terragrunt-deployment),
+  If this repository fits one of the profiles (terraform-module, salt-formula, tardigrade-deployment),
   set AGENTS_PROFILE := <profile> in the Makefile before the include line.
 -->
 
