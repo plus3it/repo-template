@@ -10,4 +10,4 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 **Summary**:
 
-*   {{ Bulleted descriptions of enhancements, changes, or fixes }}
+*   {{ Bulleted descriptions of enhancements, changes, or fixes }} ([#{{PR}}](https://github.com/plus3it/{{RepoName}}/pull/{{PR}}))
