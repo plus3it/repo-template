@@ -16,14 +16,18 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 *   Updates tardigrade-ci to 0.30.0, which adds `make agents/sync` ([#62](https://github.com/plus3it/repo-template/pull/62))
 *   Updates the plus3it/actions-workflows version used by the workflows ([#61](https://github.com/plus3it/repo-template/pull/61))
 
-### [1.2.1] (https://github.com/plus3it/repo-template/releases/tag/1.2.1)
+### [1.2.1](https://github.com/plus3it/repo-template/releases/tag/1.2.1)
+
+**Released**: 2024.03.08
 
 **Summary**:
 
 *   Updated README.md to include config settings for github
 *   Updated LICENSE copyright year
 
-### [1.2.0] (https://github.com/plus3it/repo-template/releases/tag/1.2.0)
+### [1.2.0](https://github.com/plus3it/repo-template/releases/tag/1.2.0)
+
+**Released**: 2023.02.08
 
 **Summary**:
 
@@ -31,7 +35,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 *   Updated CHANGELOG.template.md file
 *   Added Master branch in release workflow logic to make migration to Github Actions more efficient
 
-### 1.1.0
+### [1.1.0](https://github.com/plus3it/repo-template/releases/tag/1.1.0)
 
 **Commit Delta**: N/A
 
@@ -41,7 +45,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 *   Updated workflow files to be consumable and reusable, and now points to actions-workflows repo
 
-### 1.0.0
+### [1.0.0](https://github.com/plus3it/repo-template/releases/tag/1.0.0)
 
 **Commit Delta**: N/A
 
